@@ -10,9 +10,4 @@
   <text x="16" y="68" font-size="12" fill="#534AB7" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Aug 3 - Sep 10, 2026</text>
   <g transform="translate(268 20)"><use href="#sp" fill="#7F77DD"><animateTransform attributeName="transform" type="scale" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></use></g>
 
-  <rect x="310" y="0" width="290" height="84" rx="12" fill="#FBEAF0" stroke="#F4C0D1"/>
-  <text x="326" y="28" font-size="15" font-weight="500" fill="#72243E" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Web Development Intern</text>
-  <text x="326" y="48" font-size="13" fill="#993556" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">NAVTTC</text>
-  <text x="326" y="68" font-size="12" fill="#993556" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">1 week, managed the student portal</text>
-  <g transform="translate(578 20)"><use href="#sp" fill="#D4537E"><animateTransform attributeName="transform" type="scale" values="0.5;1;0.5" dur="3s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" begin="-1s" repeatCount="indefinite"/></use></g>
-</svg>
+  
