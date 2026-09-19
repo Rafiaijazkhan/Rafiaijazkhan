@@ -6,6 +6,12 @@
 
 Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects, and solving problems.
 
+### ✦ Experience
+
+<p align="center">
+  <img src="experience.svg" alt="Experience" width="100%">
+</p>
+
 ### ✦ Skills
 
 <p align="center">
@@ -63,4 +69,6 @@ Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects,
   <a href="https://github.com/Rafiaijazkhan/circuit_fault_analysis">circuit_fault_analysis</a>
 </p>
 
-<p align="center">thanks for stopping by ✦</p>
+<p align="center">
+  <img src="footer.svg" alt="Thanks for stopping by" width="100%">
+</p>
