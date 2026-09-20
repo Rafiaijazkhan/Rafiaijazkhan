@@ -63,9 +63,14 @@ Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects,
   <a href="https://github.com/Rafiaijazkhan/circuit_fault_analysis">circuit_fault_analysis</a>
 </p>
 
+<p align="center">
+  <img src="experience-card.svg" alt="Experience" width="100%">
+</p>
+
 <div align="center">
 <details>
-<summary><img src="experience-card.svg" alt="Experience - click to open" width="100%"></summary>
+<summary><b>Show experience</b></summary>
+<br>
 <img src="oneclout-card.svg" alt="Software Intern at OneClout, Aug - Sep 2026" width="100%">
 </details>
 </div>
