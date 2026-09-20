@@ -57,7 +57,7 @@ Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects,
 ### ✦ Projects
 
 <p align="center">
-  <img src="projects.svg" alt="My projects" width="100%">
+  <a href="https://github.com/Rafiaijazkhan?tab=repositories"><img src="projects.svg" alt="My projects" width="100%"></a>
 </p>
 
 <p align="center">
