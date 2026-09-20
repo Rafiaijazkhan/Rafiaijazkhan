@@ -64,16 +64,10 @@ Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects,
 </p>
 
 <div align="center">
-
 <details>
-<summary><b>✦ Experience</b></summary>
-
-<br>
-
-Software Intern at **OneClout** · Aug – Sep 2026
-
+<summary><img src="experience-card.svg" alt="Experience - click to open" width="100%"></summary>
+<img src="oneclout-card.svg" alt="Software Intern at OneClout, Aug - Sep 2026" width="100%">
 </details>
-
 </div>
 
 <p align="center">
