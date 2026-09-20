@@ -6,12 +6,6 @@
 
 Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects, and solving problems.
 
-### ✦ Experience
-
-<p align="center">
-  <img src="experience.svg" alt="Experience" width="100%">
-</p>
-
 ### ✦ Skills
 
 <p align="center">
@@ -68,6 +62,19 @@ Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects,
   <a href="https://github.com/Rafiaijazkhan/NFA-to-DFA-converter">NFA-to-DFA-converter</a> ·
   <a href="https://github.com/Rafiaijazkhan/circuit_fault_analysis">circuit_fault_analysis</a>
 </p>
+
+<div align="center">
+
+<details>
+<summary><b>✦ Experience</b></summary>
+
+<br>
+
+Software Intern at **OneClout** · Aug – Sep 2026
+
+</details>
+
+</div>
 
 <p align="center">
   <img src="footer.svg" alt="Thanks for stopping by" width="100%">
