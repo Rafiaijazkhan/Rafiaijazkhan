@@ -5,6 +5,7 @@
 ### ✦ About me
 
 Hi, I'm Rafia, a CS student who enjoys learning new things, working on projects, and solving problems.
+Teaching computers to do the work so I can rest and bed rot.
 
 ### ✦ Skills
 
